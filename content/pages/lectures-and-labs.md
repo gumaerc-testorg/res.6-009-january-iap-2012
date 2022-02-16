@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Lectures and Labs
 uid: bf60161f-a614-ddc2-b359-59acdf14d2cb
 ---
@@ -43,7 +45,7 @@ Lab handout ([PDF]({{< baseurl >}}/resources/mitres_6_009iap12_lab3a))
 Day 3 (cont.): Regression
 -------------------------
 
-We hear about correlations every day. Various health outcomes are correlated with socioeconomic status. Iodine supplementation in infants is correlated with higher IQ. Models are everywhere as well. An object falling for _t_ seconds moves .5_gt_2 meters. You can calculate correlation and build approximate models using several techniques, but the simplest and most popular technique by far is linear regression. Let's see how it works!
+We hear about correlations every day. Various health outcomes are correlated with socioeconomic status. Iodine supplementation in infants is correlated with higher IQ. Models are everywhere as well. An object falling for _t_ seconds moves .5_gt_{{< sup "2" >}} meters. You can calculate correlation and build approximate models using several techniques, but the simplest and most popular technique by far is linear regression. Let's see how it works!
 
 Lab handout ([PDF]({{< baseurl >}}/resources/mitres_6_009iap12_lab3b))  
 County Health Rankings: explanation of .csv files ([TXT](./resolveuid/7cf9e4578674871f88fc11228a9ebf1a))

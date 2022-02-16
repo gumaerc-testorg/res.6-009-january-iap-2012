@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is a supporting file for subsets of enron email dataset.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/7c438ec209b473170b66c4bb76c338c1_kenneth.zip
+file: /media/courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/7c438ec209b473170b66c4bb76c338c1_kenneth.zip
 file_type: application/zip
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Datasets and Code
+parent_type: SupplementalResourceSection
 resourcetype: Other
 title: kenneth.zip
 uid: 7c438ec2-09b4-7317-0b66-c4bb76c338c1

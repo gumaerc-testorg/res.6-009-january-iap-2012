@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is a supporting file for Day 5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/041130738adf48411b106389691a747d_day5.zip
+file: /media/courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/041130738adf48411b106389691a747d_day5.zip
 file_type: application/zip
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Datasets and Code
+parent_type: SupplementalResourceSection
 resourcetype: Other
 title: day5.zip
 uid: 04113073-8adf-4841-1b10-6389691a747d

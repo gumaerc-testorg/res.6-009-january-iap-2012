@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding lectures.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/5798f33c524d917abe52819adb68fc5f_MITRES_6_009IAP12_lec1.pdf
+file: /media/courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/5798f33c524d917abe52819adb68fc5f_MITRES_6_009IAP12_lec1.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Lectures and Labs
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MITRES_6_009IAP12_lec1.pdf
 uid: 5798f33c-524d-917a-be52-819adb68fc5f

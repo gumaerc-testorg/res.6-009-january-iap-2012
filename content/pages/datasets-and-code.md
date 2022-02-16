@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Datasets and Code
 uid: 4d40d34c-91f7-6621-3408-733271e4b1c3
 ---
