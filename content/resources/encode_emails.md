@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Labs
 parent_type: SupplementalResourceSection
+parent_uid: bf60161f-a614-ddc2-b359-59acdf14d2cb
 resourcetype: Other
 title: encode_emails.py
 uid: 620d0f58-9d79-058a-796f-c66b268663c4

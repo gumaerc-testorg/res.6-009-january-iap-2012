@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Labs
 parent_type: SupplementalResourceSection
+parent_uid: bf60161f-a614-ddc2-b359-59acdf14d2cb
 resourcetype: Document
 title: MITRES_6_009IAP12_lec6.pdf
 uid: 9d352b3c-ac15-8c5e-f71c-dc7804544311

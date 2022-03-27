@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Datasets and Code
 parent_type: SupplementalResourceSection
+parent_uid: 4d40d34c-91f7-6621-3408-733271e4b1c3
 resourcetype: Other
 title: day4.zip
 uid: 8c1a9490-30a0-0359-3459-0ce91ff2679c
