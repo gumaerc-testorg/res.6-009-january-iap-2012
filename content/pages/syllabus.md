@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: This section includes a course description and prerequisites.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Syllabus
 uid: 6de26152-4bd8-f288-f26b-36d1572023fb
+video_metadata:
+  youtube_id: null
 ---
 
 Welcome! This class is an introduction to data cleaning, analysis and visualization. We will walk you through as we analyze real world datasets. Each day, we will spend the first 30 minutes introducing the day's concepts, and spend the rest of the class doing the lab exercises. We have written a daily walkthrough that you will read and program through in class, and we will be available to help.
@@ -13,9 +16,9 @@ This is our first time teaching this course, and we'll be learning as much as yo
 Prerequisites
 -------------
 
-We assume you have a working knowledge of Python (perhaps from [6.01](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)) and are willing to write code. Most of the code you interact with will come with an example that you can modify. Hopefully you won't need to write too much custom code—unless you're inspired to write more!
+We assume you have a working knowledge of Python (perhaps from [6.01](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011)) and are willing to write code. Most of the code you interact with will come with an example that you can modify. Hopefully you won't need to write too much custom code—unless you're inspired to write more!
 
-We expect you to install several development-related Python modules, and download the datasets we will be using in the class. Instructions can be found under Day 0, in the [Lectures and Labs]({{< baseurl >}}/pages/lectures-and-labs) section.
+We expect you to install several development-related Python modules, and download the datasets we will be using in the class. Instructions can be found under Day 0, in the {{% resource_link bf60161f-a614-ddc2-b359-59acdf14d2cb "Lectures and Labs" %}} section.
 
 What We Will Teach
 ------------------
