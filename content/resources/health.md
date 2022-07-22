@@ -4,6 +4,7 @@ description: This is a supporting file for 2011 county health rankings.
 file: /courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/f9c9795f4d6278018ac8eca694264f76_health.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Datasets and Code
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a supporting file for 2011 county health rankings.
-

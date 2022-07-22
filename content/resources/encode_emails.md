@@ -4,6 +4,7 @@ description: 'This is a special file for Day 5: Processing Large Datasets.'
 file: /courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/620d0f589d79058a796fc66b268663c4_encode_emails.py
 file_type: text/python-source
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lectures and Labs
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a special file for Day 5: Processing Large Datasets.
-

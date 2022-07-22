@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Diagram of the steps from raw data to a data product, with two examples
     of exploratory data analysis.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-6-009iap12-th.jpg
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Two examples of exploratory data analysis: campaign contributions and county health rankings. Image by the course instructors.
-
