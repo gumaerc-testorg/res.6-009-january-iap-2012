@@ -2,7 +2,7 @@
   "term": "January IAP",
   "year": "2012",
   "level": [
-    "Undergraduate"
+    "Non Credit"
   ],
   "topics": [
     [
@@ -44,6 +44,7 @@
     "Lecture Notes",
     "Programming Assignments"
   ],
-  "site_uid": "07446e65-e397-44f8-9ae0-bc93f542ebc4",
+  "site_uid": "8ec10d57-5063-42a1-8ac9-e2c593a888d2",
+  "short_id": "res.6-009-january-iap-2012",
   "title": "Course Metadata"
 }
