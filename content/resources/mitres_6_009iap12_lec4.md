@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lectures.
 file: /courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/293f219ab7d729511209d12e5c9735c8_MITRES_6_009IAP12_lec4.pdf
+file_size: 583435
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
