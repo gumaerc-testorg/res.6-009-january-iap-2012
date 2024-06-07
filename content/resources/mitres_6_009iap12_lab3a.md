@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding labs.
 file: /courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/5a85b1b2482129e6633ca47a06cc59d5_MITRES_6_009IAP12_lab3a.pdf
+file_size: 385376
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
