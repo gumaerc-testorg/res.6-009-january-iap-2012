@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for resources.
 file: /courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/d977d51ec39a4630487f6bb9473f2370_resources.zip
+file_size: 165644
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
