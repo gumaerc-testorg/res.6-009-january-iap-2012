@@ -29,9 +29,10 @@
     "website": "res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012"
   },
   "course_title": "How to Process, Analyze and Visualize Data",
+  "hide_download": false,
   "course_description": "This course is an introduction to data cleaning, analysis and visualization. We will teach the basics of data analysis through concrete examples. You will learn how to take raw data, extract meaningful information, use statistical tools, and make visualizations.\n\nThis was offered as a non-credit course during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
   "department_numbers": [
-    "RES"
+    "6"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.6-009",
