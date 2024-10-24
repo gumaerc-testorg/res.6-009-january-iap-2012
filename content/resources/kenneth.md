@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for subsets of enron email dataset.
-file: /courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/7c438ec209b473170b66c4bb76c338c1_kenneth.zip
+file: /ol-ocw-studio-app/courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/7c438ec209b473170b66c4bb76c338c1_kenneth.zip
 file_size: 5883444
 file_type: application/zip
 learning_resource_types: []
