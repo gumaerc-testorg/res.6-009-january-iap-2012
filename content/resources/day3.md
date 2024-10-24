@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file for Day 3.
-file: /courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/dddb8cad750187ab219c83046aeeef81_day3.zip
+file: /ol-ocw-studio-app/courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/dddb8cad750187ab219c83046aeeef81_day3.zip
 file_size: 21114
 file_type: application/zip
 learning_resource_types: []
