@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Two examples of exploratory data analysis: campaign contributions and
   county health rankings. Image by the course instructors.'
-file: /ol-ocw-studio-app/courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/5e9286fade38d133e094b1f1affc4d1e_res-6-009iap12-th.jpg
+file: /courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/5e9286fade38d133e094b1f1affc4d1e_res-6-009iap12-th.jpg
 file_size: 13441
 file_type: image/jpeg
 image_metadata:
