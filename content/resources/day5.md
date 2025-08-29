@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a supporting file for Day 5.
 draft: false
-file: /courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/041130738adf48411b106389691a747d_day5.zip
+file: /ol-ocw-studio-app/courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/041130738adf48411b106389691a747d_day5.zip
 file_size: 17070
 file_type: application/zip
 image_metadata:
