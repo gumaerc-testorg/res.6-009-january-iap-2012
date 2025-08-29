@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lectures.
 draft: false
-file: /courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/42d3a02506e3a2bbb8c1c8eb120bfe3b_MITRES_6_009IAP12_lec0.pdf
+file: /ol-ocw-studio-app/courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/42d3a02506e3a2bbb8c1c8eb120bfe3b_MITRES_6_009IAP12_lec0.pdf
 file_size: 563582
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a special file for Day 5: Processing Large Datasets.'
 draft: false
-file: /courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/620d0f589d79058a796fc66b268663c4_encode_emails.py
+file: /ol-ocw-studio-app/courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/620d0f589d79058a796fc66b268663c4_encode_emails.py
 file_size: 1421
 file_type: text/python-source
 image_metadata:

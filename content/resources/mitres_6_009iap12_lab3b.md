@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding labs. '
 draft: false
-file: /courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/7efe00f12b11fefc7374e366957f63b0_MITRES_6_009IAP12_lab3b.pdf
+file: /ol-ocw-studio-app/courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/7efe00f12b11fefc7374e366957f63b0_MITRES_6_009IAP12_lab3b.pdf
 file_size: 504125
 file_type: application/pdf
 image_metadata:
