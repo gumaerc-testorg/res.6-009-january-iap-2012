@@ -37,9 +37,9 @@ What We Will Not Teach
 ----------------------
 
 *   R. R is a wonderful data analysis, statistics, and plotting framework. We will not be using it because we can achieve all of our objectives in Python, and more MIT undergraduates know Python.
-*   Visualization using browser technology (canvas, svg, d3, etc) or in non-Python languages ([Processing](http://processing.org/)). These tools are very interesting, and lots of visualizations on the web use these tools (such as the [New York Times visualizations](http://open.blogs.nytimes.com/2008/10/27/the-new-york-times-data-visualization-lab/)), but they are out of the scope of this class. We'll teach you how to visualize data in static charts. If this is an area of interest for you, the next step will be to build interactive visualizations that the world can explore, and we can point you in the right direction with these.
+*   Visualization using browser technology (canvas, svg, d3, etc) or in non-Python languages ({{% resource_link "6bf141ad-a4cd-489d-a53b-4e786c9d9b0a" "Processing" %}}). These tools are very interesting, and lots of visualizations on the web use these tools (such as the {{% resource_link "6db37173-1390-418b-9504-3e4077b079d8" "New York Times visualizations" %}}), but they are out of the scope of this class. We'll teach you how to visualize data in static charts. If this is an area of interest for you, the next step will be to build interactive visualizations that the world can explore, and we can point you in the right direction with these.
 
 GitHub
 ------
 
-The course materials can also be found [in this GitHub repository](https://github.com/dataiap/dataiap), which may be updated more frequently than the OCW site.
+The course materials can also be found {{% resource_link "888d0ec9-0125-4457-9f7b-c6df33665bfe" "in this GitHub repository" %}}, which may be updated more frequently than the OCW site.

@@ -9,7 +9,7 @@ video_metadata:
   youtube_id: null
 ---
 
-This section contains datasets and other code needed to complete the lab exercises in the {{% resource_link bf60161f-a614-ddc2-b359-59acdf14d2cb "Lectures and Labs" %}} section. The files can also be found [in this GitHub repository](https://github.com/dataiap/dataiap).
+This section contains datasets and other code needed to complete the lab exercises in the {{% resource_link bf60161f-a614-ddc2-b359-59acdf14d2cb "Lectures and Labs" %}} section. The files can also be found {{% resource_link "888d0ec9-0125-4457-9f7b-c6df33665bfe" "in this GitHub repository" %}}.
 
 Datasets
 --------
@@ -34,7 +34,7 @@ COMMENTS
 2008 Presidential Campaign Contributions ([ZIP](/ans7870/RES/RES.6-009/iap12/datasets/P00000001-ALL.zip)) (This ZIP file contains: 1 .xls file.)
 {{< tdclose >}}
 {{< tdopen >}}
-In the public domain, from the [Federal Election Commission](https://www.fec.gov/).
+In the public domain, from the {{% resource_link "0523ea57-8f3f-41c8-8f41-812b1268944a" "Federal Election Commission" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +43,7 @@ In the public domain, from the [Federal Election Commission](https://www.fec.gov
 2011 County Health Rankings ({{% resource_link f9c9795f-4d62-7801-8ac8-eca694264f76 "ZIP" %}}) (This ZIP file contains: 3 .xls file, 1 .txt file, and 3 .py files.)
 {{< tdclose >}}
 {{< tdopen >}}
-2011 County Health Ranking National Data.xls © [County Health Rankings & Roadmaps](http://www.countyhealthrankings.org/), ols.py © Vincent Nijs. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).
+2011 County Health Ranking National Data.xls © {{% resource_link "497aeaa0-cd88-4848-b682-0761b72754c5" "County Health Rankings & Roadmaps" %}}, ols.py © Vincent Nijs. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +62,7 @@ kenneth\_json.zip ({{% resource_link de80a4b7-f123-ce4c-fb67-e29495012eb3 "ZIP" 
 
 {{< tdclose >}}
 {{< tdopen >}}
-In the public domain, from the Federal Energy Regulatory Commission. The history of the Enron dataset [is described here](http://www.cs.cmu.edu/~enron/).
+In the public domain, from the Federal Energy Regulatory Commission. The history of the Enron dataset {{% resource_link "f60fdacc-cbb8-433d-a9e9-94f6997c2821" "is described here" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
