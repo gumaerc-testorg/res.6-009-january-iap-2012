@@ -5,6 +5,8 @@ external_url: https://ocw-studio.odl.mit.edu/sites/res-6-009-how-to-process-anal
 has_external_license_warning: true
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: valid
 title: ZIP
 uid: 80180baf-0033-44ba-a3e5-896edc271e5d
+url_status_code: 200
 ---
